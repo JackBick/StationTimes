@@ -1,0 +1,5 @@
+badline - one line is incorrect in args, should be skipped
+errors - not enough source arguments
+nextday1 - test that it will return the earliest time on the next day
+toobig - one line is too big in args, should be skipped
+notimetable - the timetable is empty, outputs to err
